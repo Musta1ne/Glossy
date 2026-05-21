@@ -1,7 +1,5 @@
 # Glossy — Asistente de voz para Windows
 
-Decí **"hey glossy"** y controlá tu computadora con la voz.
-
 ---
 
 ## Requisitos previos
