@@ -1,0 +1,25 @@
+# Glossy - Dependencias
+# Instalar con: pip install -r requirements.txt
+
+# Audio
+pyaudio>=0.2.14
+numpy>=1.24.0
+
+# Wake word
+openwakeword>=0.6.0
+
+# Speech-to-Text
+openai-whisper>=20231117
+
+# LLM local (Ollama corre por separado, esto es solo para las requests HTTP)
+requests>=2.31.0
+
+# Spotify
+spotipy>=2.23.0
+
+# Volumen del sistema (Windows)
+pycaw>=20230407
+comtypes>=1.2.0
+
+# Text-to-Speech
+pyttsx3>=2.90
